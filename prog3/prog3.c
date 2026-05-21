@@ -1,6 +1,3 @@
-// Write a function to print the bits in an integer.
-// Write a function to count no of 1 bits in an integer.
-
 #include <stdio.h>
 void intToBin(int n){
     int binary[32];
