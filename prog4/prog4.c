@@ -1,7 +1,3 @@
-// Design and test a structure bitfields.
-// Bitfield a;
-// a.firstbit = 1;
-
 #include <stdio.h>
 struct bitField{
     unsigned int firstbit:1;
